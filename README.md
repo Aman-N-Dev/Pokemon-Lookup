@@ -51,7 +51,7 @@ pip install requests
 Run the program:
 
 ```bash
-python main.py
+python pokemon_lookup.py
 ```
 
 Example:
@@ -72,7 +72,7 @@ Weight: 60
 ```
 pokedex-cli/
 │
-├── main.py
+├── pokemon_lookup.py
 ├── README.md
 └── requirements.txt
 ```
